@@ -2,10 +2,9 @@
 
 # Description
 
-Implementation of a Shopping Cart simulator using ReactJs Framework.
+Implementation of a Shopping Cart simulator.
 
 ## Main Learnings
-* ReactJs Framework
 * Fetch Data
 * HTML/CSS
 
